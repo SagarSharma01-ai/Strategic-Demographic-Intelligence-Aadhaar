@@ -13,8 +13,8 @@ This project transforms passive Aadhaar ecosystem logs into **Active Strategic I
 ---
 
 ## 📂 Project Files
-* **📄 Full Project Report (PDF):** [View Report](Report/Aadhaar_Hackathon_Report_Final.pdf)
-* **💻 Master Analysis Notebook:** [View Code](Notebooks/End_to_End_Analysis_Pipeline.ipynb)
+* **📄 Full Project Report (PDF):** [View Report](AadhaarDataAnalysisReport.pdf)
+* **💻 Master Analysis Notebook:** [View Code](ETLAadharAnalysis.ipynb)
 
 ---
 
