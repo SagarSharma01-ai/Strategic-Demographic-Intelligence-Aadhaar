@@ -1,3 +1,9 @@
+𝗛𝗮𝗽𝗽𝘆 𝗥𝗲𝗽𝘂𝗯𝗹𝗶𝗰 𝗗𝗮𝘆 𝘁𝗼 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲! 𝗟𝗲𝘁'𝘀 𝗯𝘂𝗶𝗹𝗱 𝗮 𝗱𝗮𝘁𝗮-𝗱𝗿𝗶𝘃𝗲𝗻 𝗜𝗻𝗱𝗶𝗮. 🚀
+🇮🇳 Jai Hind, Jai Bharat! 🇮🇳
+
+<img width="256" height="256" alt="Flag India" src="https://github.com/user-attachments/assets/39aea211-7c2d-49a7-94bc-264862cb4e64" />
+
+
 # 📊 Strategic Demographic Intelligence: Aadhaar Data Analysis
 
 ![Cover Image](https://github.com/user-attachments/assets/efcd1d90-bf58-4e43-9d44-50edf3b8b5e2)
